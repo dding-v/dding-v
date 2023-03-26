@@ -27,4 +27,5 @@
 ### ˖⁺‧₊˚♡˚₊‧ 💚 contacts to me 💚 ‧₊˚♡˚₊‧⁺˖
 <a href="https://dding-v.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-45E0A4?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> <a href="https://www.instagram.com/mxnxeong/"><img src="https://img.shields.io/badge/Instagram-99ADF7?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="v.dding.v@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-<br>  
+<br><br>  
+
