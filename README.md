@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mmoenggv&show_icons=true" height="115"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoengg&layout=compact&theme=white" height="115">
+<img src="https://github-readme-stats.vercel.app/api?username=mmoengg&show_icons=true" height="115"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoengg&layout=compact&theme=white" height="115">
 
 <br>
 
