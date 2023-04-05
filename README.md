@@ -20,12 +20,12 @@
 
 <img src="https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dding-v&show_icons=true" height="115"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dding-v&layout=compact&theme=white" height="115">
+<img src="https://github-readme-stats.vercel.app/api?username=mmoenggv&show_icons=true" height="115"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoengg&layout=compact&theme=white" height="115">
 
 <br>
 
 ### ˖⁺‧₊˚♡˚₊‧ 💚 contacts to me 💚 ‧₊˚♡˚₊‧⁺˖
-<a href="https://dding-v.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-45E0A4?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> <a href="https://www.instagram.com/mxnxeong/"><img src="https://img.shields.io/badge/Instagram-99ADF7?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="v.dding.v@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://dding-v.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-45E0A4?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> <a href="https://www.instagram.com/mxnxeong/"><img src="https://img.shields.io/badge/Instagram-99ADF7?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mmoengg@gmail.com"><img src="https://img.shields.io/badge/Gmail-F09C73?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br><br>  
 
